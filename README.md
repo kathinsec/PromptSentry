@@ -37,6 +37,13 @@ python3 -m pip install -e .
 
 ## Usage
 
+## Demo
+
+Run on the included sample data:
+
+```bash
+promptsentry sample_data/sample.jsonl --field content --min-score 8
+
 ### JSONL input
 Example record:
 ```json
