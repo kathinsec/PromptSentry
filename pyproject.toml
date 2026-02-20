@@ -1,0 +1,10 @@
+[project]
+name = "promptsentry"
+version = "0.1.0"
+description = "Heuristic prompt injection detector for LLM interaction logs."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+promptsentry = "promptsentry.cli:main"

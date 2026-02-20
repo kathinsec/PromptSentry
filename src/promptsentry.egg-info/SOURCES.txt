@@ -1,0 +1,9 @@
+pyproject.toml
+src/promptsentry/cli.py
+src/promptsentry/detector.py
+src/promptsentry/rules.py
+src/promptsentry.egg-info/PKG-INFO
+src/promptsentry.egg-info/SOURCES.txt
+src/promptsentry.egg-info/dependency_links.txt
+src/promptsentry.egg-info/entry_points.txt
+src/promptsentry.egg-info/top_level.txt
